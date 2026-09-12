@@ -1,1 +1,129 @@
+# Freight Forwarding Registry
 
+> Freight Forwarding Registry is a structured editorial reference for freight forwarding across jurisdictions. It records the practical commercial, Customs, border, transport, documentation, permit, warehouse, delivery and cross-border context that can shape cargo movements.
+
+Freight Forwarding Registry is designed for importers, exporters, freight forwarders, logistics buyers, supply-chain teams, Customs and trade-compliance professionals, insurers, carriers, project owners and advisers.
+
+## Core pages
+
+- [Home](https://freightforwardingregistry.org/): Overview of the registry, purpose, coverage, method and use of records.
+- [Jurisdictions](https://freightforwardingregistry.org/jurisdictions/): Global directory of country, state, provincial, regional and international reference records.
+- [Privacy Policy](https://freightforwardingregistry.org/privacy-policy/)
+- [Terms of Use](https://freightforwardingregistry.org/terms-of-use/)
+
+## How to use the registry
+
+Jurisdictional records are editorial references, not legal, Customs, tax, transport, insurance, product-control or permit advice. Each record is intended to support shipment scoping, provider selection, route planning, internal research and jurisdictional navigation.
+
+For an actual shipment, confirm current requirements for the exact cargo, commodity classification, Customs value, origin, importer/exporter, carrier, route, transport mode, origin, transit territory, destination, Customs procedure, product-control status, dangerous-goods status and delivery location.
+
+## Key forwarding concepts
+
+- Freight forwarding is a commercial service that can include carrier procurement, route design, consolidation, documentation, Customs/Broker coordination, advance cargo data, warehouse coordination, tracking, delivery and exception management.
+- A forwarder can be an intermediary arranging carriage, a contractual transport provider, an NVOCC, an airline or carrier agent, a warehouse/logistics provider or an integrated logistics provider. The actual role follows the agreement, conduct, issued documents, carrier terms and applicable law.
+- The importer/exporter, declarant, Customs representative, Customs Broker, carrier, warehousekeeper, transit principal, terminal operator and insurer can have distinct legal and commercial responsibilities.
+- Incoterms® rules allocate specified delivery, cost and risk responsibilities between buyer and seller under a sales contract when correctly incorporated. They do not by themselves determine title transfer, payment terms, Customs legal liability, transport contract terms or insurance cover.
+- International shipments can require export, transit and import processes in separate Customs territories. A carrier booking or commercial invoice does not substitute for the relevant Customs, security, transit, product-control or transport process.
+
+## Directory
+
+### Nordics
+
+- [Sweden](https://freightforwardingregistry.org/jurisdictions/sweden/)
+- [Denmark](https://freightforwardingregistry.org/jurisdictions/denmark/)
+- [Norway](https://freightforwardingregistry.org/jurisdictions/norway/)
+- [Finland](https://freightforwardingregistry.org/jurisdictions/finland/)
+
+### Western Europe
+
+- [Germany](https://freightforwardingregistry.org/jurisdictions/germany/)
+- [Netherlands](https://freightforwardingregistry.org/jurisdictions/netherlands/)
+- [Belgium](https://freightforwardingregistry.org/jurisdictions/belgium/)
+- [France](https://freightforwardingregistry.org/jurisdictions/france/)
+- [Austria](https://freightforwardingregistry.org/jurisdictions/austria/)
+- [Switzerland](https://freightforwardingregistry.org/jurisdictions/switzerland/)
+- [Luxembourg](https://freightforwardingregistry.org/jurisdictions/luxembourg/)
+- [Ireland](https://freightforwardingregistry.org/jurisdictions/ireland/)
+
+### Southern Europe
+
+- [Spain](https://freightforwardingregistry.org/jurisdictions/spain/)
+- [Italy](https://freightforwardingregistry.org/jurisdictions/italy/)
+- [Portugal](https://freightforwardingregistry.org/jurisdictions/portugal/)
+- [Greece](https://freightforwardingregistry.org/jurisdictions/greece/)
+- [Croatia](https://freightforwardingregistry.org/jurisdictions/croatia/)
+- [Slovenia](https://freightforwardingregistry.org/jurisdictions/slovenia/)
+
+### Central and Eastern Europe
+
+- [Poland](https://freightforwardingregistry.org/jurisdictions/poland/)
+- [Czech Republic](https://freightforwardingregistry.org/jurisdictions/czech-republic/)
+- [Hungary](https://freightforwardingregistry.org/jurisdictions/hungary/)
+- [Romania](https://freightforwardingregistry.org/jurisdictions/romania/)
+- [Slovakia](https://freightforwardingregistry.org/jurisdictions/slovakia/)
+- [Bulgaria](https://freightforwardingregistry.org/jurisdictions/bulgaria/)
+
+### Asia-Pacific
+
+- [Japan](https://freightforwardingregistry.org/jurisdictions/japan/)
+- [South Korea](https://freightforwardingregistry.org/jurisdictions/south-korea/)
+- [Singapore](https://freightforwardingregistry.org/jurisdictions/singapore/)
+- [China](https://freightforwardingregistry.org/jurisdictions/china/)
+- [Hong Kong](https://freightforwardingregistry.org/jurisdictions/hong-kong/)
+- [India](https://freightforwardingregistry.org/jurisdictions/india/)
+- [Australia](https://freightforwardingregistry.org/jurisdictions/australia/)
+- [New Zealand](https://freightforwardingregistry.org/jurisdictions/new-zealand/)
+
+### Middle East
+
+- [United Arab Emirates](https://freightforwardingregistry.org/jurisdictions/united-arab-emirates/)
+- [Saudi Arabia](https://freightforwardingregistry.org/jurisdictions/saudi-arabia/)
+- [Israel](https://freightforwardingregistry.org/jurisdictions/israel/)
+- [Qatar](https://freightforwardingregistry.org/jurisdictions/qatar/)
+
+### Americas
+
+- [Mexico](https://freightforwardingregistry.org/jurisdictions/mexico/)
+- [Brazil](https://freightforwardingregistry.org/jurisdictions/brazil/)
+- [United States](https://freightforwardingregistry.org/jurisdictions/united-states/)
+- [Canada](https://freightforwardingregistry.org/jurisdictions/canada/)
+
+### United States state records
+
+- [California](https://freightforwardingregistry.org/jurisdictions/united-states/california/)
+- [New York](https://freightforwardingregistry.org/jurisdictions/united-states/new-york/)
+- [Texas](https://freightforwardingregistry.org/jurisdictions/united-states/texas/)
+- [Florida](https://freightforwardingregistry.org/jurisdictions/united-states/florida/)
+- [New Jersey](https://freightforwardingregistry.org/jurisdictions/united-states/new-jersey/)
+- [Illinois](https://freightforwardingregistry.org/jurisdictions/united-states/illinois/)
+- [Pennsylvania](https://freightforwardingregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Massachusetts](https://freightforwardingregistry.org/jurisdictions/united-states/massachusetts/)
+- [Washington](https://freightforwardingregistry.org/jurisdictions/united-states/washington/)
+- [Georgia](https://freightforwardingregistry.org/jurisdictions/united-states/georgia/)
+- [Wyoming](https://freightforwardingregistry.org/jurisdictions/united-states/wyoming/)
+- [Nevada](https://freightforwardingregistry.org/jurisdictions/united-states/nevada/)
+- [Delaware](https://freightforwardingregistry.org/jurisdictions/united-states/delaware/)
+
+### United Kingdom records
+
+- [United Kingdom](https://freightforwardingregistry.org/jurisdictions/united-kingdom/)
+- [England and Wales](https://freightforwardingregistry.org/jurisdictions/united-kingdom/england-wales/)
+- [Scotland](https://freightforwardingregistry.org/jurisdictions/united-kingdom/scotland/)
+- [Northern Ireland](https://freightforwardingregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+
+### Canadian records
+
+- [Canada](https://freightforwardingregistry.org/jurisdictions/canada/)
+- [Ontario](https://freightforwardingregistry.org/jurisdictions/canada/ontario/)
+- [Quebec](https://freightforwardingregistry.org/jurisdictions/canada/quebec/)
+- [British Columbia](https://freightforwardingregistry.org/jurisdictions/canada/british-columbia/)
+- [Alberta](https://freightforwardingregistry.org/jurisdictions/canada/alberta/)
+
+### Regional and international records
+
+- [Europe](https://freightforwardingregistry.org/jurisdictions/europe/)
+- [International](https://freightforwardingregistry.org/jurisdictions/international/)
+
+## Editorial limitation
+
+Freight Forwarding Registry is an editorial reference service. It is not a freight forwarder, carrier, Customs Broker, Customs representative, insurer, warehousekeeper, transport authority, legal adviser, tax adviser, product-certification authority or sanctions/export-control adviser. Users should verify the current requirements and contractual terms applicable to their specific shipment with qualified providers and authorities.
