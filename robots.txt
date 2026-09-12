@@ -1,1 +1,7 @@
+# Freight Forwarding Registry
+# https://freightforwardingregistry.org/
 
+User-agent: *
+Allow: /
+
+Sitemap: https://freightforwardingregistry.org/sitemap.xml
