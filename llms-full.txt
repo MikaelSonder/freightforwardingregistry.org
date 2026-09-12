@@ -1,1 +1,220 @@
+# Freight Forwarding Registry
 
+> Freight Forwarding Registry is a structured editorial reference for freight forwarding across jurisdictions. It records the practical commercial, Customs, border, transport, carrier, documentation, permit, warehouse, delivery, risk and cross-border context that can shape cargo movements.
+
+Freight Forwarding Registry is designed for importers, exporters, freight forwarders, logistics buyers, supply-chain teams, Customs and trade-compliance professionals, insurers, carriers, project owners and advisers who need a clear starting point for understanding freight-forwarding requirements across jurisdictions.
+
+## Registry purpose
+
+| Topic | Registry position |
+|---|---|
+| Primary function | To provide a neutral, structured reference layer for freight forwarding and cargo movement processes across jurisdictions. |
+| Typical coverage | Ocean freight, air cargo, road, rail, intermodal and inland-waterway transport; Customs and border processes; Customs Brokers and representatives; EORI, CARM, CDS, eManifest, ICS2, NCTS, GVMS and transit; dangerous goods; abnormal loads; port, airport, warehouse and bonded logistics; documentation; duties, taxes, origin, Incoterms® and cross-border delivery. |
+| Use of records | Each record supports shipment scoping, internal research, provider selection, route planning and jurisdictional navigation. It does not replace qualified Customs, transport, trade-compliance, tax, product, insurance, permit or legal advice. |
+| Editorial boundary | The Registry does not determine a shipment’s Customs classification, origin, valuation, duty/tax outcome, product admissibility, permit eligibility, carrier liability, insurance coverage or legal position. These matters require shipment-specific confirmation. |
+
+## How to use the registry
+
+1. Identify the actual origin, transit territory or territories, destination and Customs territory.
+2. Identify buyer, seller, shipper, consignee, importer/exporter of record, declarant, Customs representative or broker, carrier and warehouse roles.
+3. Confirm the sales-contract terms, including the precise Incoterms® rule, version and named place or port where applicable.
+4. Confirm the commodity, Customs classification, Customs value, origin, product controls, permits, dangerous-goods status and export-control/sanctions position.
+5. Review the linked jurisdiction record and any relevant state, provincial or regional record.
+6. Confirm current carrier, Customs, security, transit, product, route, permit, tax and local delivery requirements with qualified providers and authorities before execution.
+
+## Key concepts
+
+### Freight forwarding
+
+Freight forwarding is a commercial service that can include route design, carrier procurement, consolidation, booking, documentation, Customs/Broker coordination, advance cargo data, warehouse coordination, tracking, delivery and exception management.
+
+A forwarder can be an intermediary arranging carriage, a contractual transport provider, an NVOCC, an airline or carrier agent, a warehouse/logistics provider or an integrated logistics provider. The actual role follows the agreement, conduct, issued documents, carrier terms and applicable law. A title such as “freight forwarder” does not by itself establish the provider’s legal role or liability basis.
+
+### Party allocation
+
+A shipment can involve distinct parties with separate responsibilities:
+
+- Buyer and seller under the sales contract.
+- Shipper and consignee under the transport instruction or transport document.
+- Importer and exporter of record for Customs and trade purposes.
+- Declarant, Customs representative or Customs Broker for relevant Customs processes.
+- Carrier, haulier, airline, vessel operator, rail operator or NVOCC for carriage.
+- Transit principal, warehousekeeper, terminal operator or bonded-facility operator for Customs-controlled goods.
+- Insurer, surveyor and claims parties for cargo risk and recovery.
+
+The exact allocation should be documented before cargo is handed to a carrier.
+
+### Incoterms® rules
+
+Incoterms® rules are ICC standards used in sales contracts to allocate specified delivery, cost and risk responsibilities between seller and buyer. The rule, version and named place or port should be stated precisely, for example: `FCA [named place], Incoterms® 2020`.
+
+Incoterms® rules do not by themselves:
+
+- Transfer title to goods.
+- Set the payment method or letter-of-credit requirements.
+- Create the transport contract.
+- Determine Customs legal liability imposed by law.
+- Guarantee cargo insurance or define all insurance cover.
+- Replace a full sales contract, transport contract or Customs instruction.
+
+### Customs and borders
+
+International shipments can require separate export, transit and import processes. A carrier booking, commercial invoice or bill of lading does not replace the relevant Customs declaration, advance cargo/security filing, product-control approval or transit procedure.
+
+The trader should identify the applicable importer/exporter, registration or EORI-equivalent identifier, Customs representative or broker, declaration system, duty/tax payer, security-filing party, transit principal and release location in every relevant jurisdiction.
+
+### Documents
+
+The documents required for a shipment depend on the route, countries, mode, cargo, commercial arrangement, Customs procedure and services purchased. A typical document pack can include:
+
+- Freight quotation or service agreement.
+- Sales contract and Incoterms® reference.
+- Importer/exporter and Customs registration details.
+- Customs representation or broker authority.
+- Shipping instructions.
+- Commercial invoice.
+- Packing list.
+- Transport document, including bill of lading, sea waybill, air waybill, CMR, rail document or domestic consignment note.
+- Export, security, transit and import declaration references.
+- Origin evidence.
+- Product, SPS, dangerous-goods, import/export-control and sanctions documentation.
+- Warehouse, bonded or transit records.
+- Cargo-insurance evidence where separately arranged.
+- Proof of delivery.
+
+Documents should be internally consistent as to parties, goods, quantity, packaging, weight, value, currency, origin, route, carrier and delivery terms.
+
+### Transport and route execution
+
+A complete freight plan can include:
+
+- Origin collection and packing readiness.
+- Export handling and carrier cut-offs.
+- Main carriage by ocean, air, road, rail, inland waterway or multimodal service.
+- Port, airport, terminal, border and transshipment activities.
+- Customs, security, transit, product-control and release procedures.
+- Drayage, domestic road/rail movement, warehouse handling and final delivery.
+- Abnormal-load, dangerous-goods, route, bridge, ferry, weather or delivery-site planning where relevant.
+- Proof of delivery, cost reconciliation, record retention and claims management.
+
+### Dangerous goods, abnormal loads and project cargo
+
+Dangerous goods require accurate classification, packaging, marking, documentation, trained personnel, qualified carriers and mode-specific compliance. ADR, IMDG, IATA/ICAO and national rules may be relevant depending on mode and route.
+
+Abnormal loads, oversize/overweight movements and project cargo can require permits, route approvals, bridge or utility review, escort or pilot-car services, special equipment, travel restrictions, road-authority notifications and country-specific carrier planning. A permit in one jurisdiction does not automatically authorise another jurisdiction or route.
+
+### Cargo insurance and liability
+
+Forwarder and carrier liability can be limited by contract, tariff, mandatory convention or statute. Liability may not equal cargo value. Separate cargo insurance should be assessed where financial exposure exceeds likely recovery under the applicable liability regime.
+
+Claims procedures often impose strict notice, inspection, documentation and time-limit requirements. Preserve evidence promptly: delivery receipt exceptions, photographs, packaging evidence, temperature records, survey reports and carrier correspondence can be material.
+
+## Core records
+
+- [Home](https://freightforwardingregistry.org/): Registry purpose, coverage, method and use of records.
+- [Jurisdictions Directory](https://freightforwardingregistry.org/jurisdictions/): Global country, state, provincial, regional and international directory.
+- [Privacy Policy](https://freightforwardingregistry.org/privacy-policy/)
+- [Terms of Use](https://freightforwardingregistry.org/terms-of-use/)
+
+## Jurisdiction directory
+
+### Nordics
+
+- [Sweden](https://freightforwardingregistry.org/jurisdictions/sweden/)
+- [Denmark](https://freightforwardingregistry.org/jurisdictions/denmark/)
+- [Norway](https://freightforwardingregistry.org/jurisdictions/norway/)
+- [Finland](https://freightforwardingregistry.org/jurisdictions/finland/)
+
+### Western Europe
+
+- [Germany](https://freightforwardingregistry.org/jurisdictions/germany/)
+- [Netherlands](https://freightforwardingregistry.org/jurisdictions/netherlands/)
+- [Belgium](https://freightforwardingregistry.org/jurisdictions/belgium/)
+- [France](https://freightforwardingregistry.org/jurisdictions/france/)
+- [Austria](https://freightforwardingregistry.org/jurisdictions/austria/)
+- [Switzerland](https://freightforwardingregistry.org/jurisdictions/switzerland/)
+- [Luxembourg](https://freightforwardingregistry.org/jurisdictions/luxembourg/)
+- [Ireland](https://freightforwardingregistry.org/jurisdictions/ireland/)
+
+### Southern Europe
+
+- [Spain](https://freightforwardingregistry.org/jurisdictions/spain/)
+- [Italy](https://freightforwardingregistry.org/jurisdictions/italy/)
+- [Portugal](https://freightforwardingregistry.org/jurisdictions/portugal/)
+- [Greece](https://freightforwardingregistry.org/jurisdictions/greece/)
+- [Croatia](https://freightforwardingregistry.org/jurisdictions/croatia/)
+- [Slovenia](https://freightforwardingregistry.org/jurisdictions/slovenia/)
+
+### Central and Eastern Europe
+
+- [Poland](https://freightforwardingregistry.org/jurisdictions/poland/)
+- [Czech Republic](https://freightforwardingregistry.org/jurisdictions/czech-republic/)
+- [Hungary](https://freightforwardingregistry.org/jurisdictions/hungary/)
+- [Romania](https://freightforwardingregistry.org/jurisdictions/romania/)
+- [Slovakia](https://freightforwardingregistry.org/jurisdictions/slovakia/)
+- [Bulgaria](https://freightforwardingregistry.org/jurisdictions/bulgaria/)
+
+### Asia-Pacific
+
+- [Japan](https://freightforwardingregistry.org/jurisdictions/japan/)
+- [South Korea](https://freightforwardingregistry.org/jurisdictions/south-korea/)
+- [Singapore](https://freightforwardingregistry.org/jurisdictions/singapore/)
+- [China](https://freightforwardingregistry.org/jurisdictions/china/)
+- [Hong Kong](https://freightforwardingregistry.org/jurisdictions/hong-kong/)
+- [India](https://freightforwardingregistry.org/jurisdictions/india/)
+- [Australia](https://freightforwardingregistry.org/jurisdictions/australia/)
+- [New Zealand](https://freightforwardingregistry.org/jurisdictions/new-zealand/)
+
+### Middle East
+
+- [United Arab Emirates](https://freightforwardingregistry.org/jurisdictions/united-arab-emirates/)
+- [Saudi Arabia](https://freightforwardingregistry.org/jurisdictions/saudi-arabia/)
+- [Israel](https://freightforwardingregistry.org/jurisdictions/israel/)
+- [Qatar](https://freightforwardingregistry.org/jurisdictions/qatar/)
+
+### Americas
+
+- [Mexico](https://freightforwardingregistry.org/jurisdictions/mexico/)
+- [Brazil](https://freightforwardingregistry.org/jurisdictions/brazil/)
+- [United States](https://freightforwardingregistry.org/jurisdictions/united-states/)
+- [Canada](https://freightforwardingregistry.org/jurisdictions/canada/)
+
+### United States state records
+
+- [California](https://freightforwardingregistry.org/jurisdictions/united-states/california/)
+- [New York](https://freightforwardingregistry.org/jurisdictions/united-states/new-york/)
+- [Texas](https://freightforwardingregistry.org/jurisdictions/united-states/texas/)
+- [Florida](https://freightforwardingregistry.org/jurisdictions/united-states/florida/)
+- [New Jersey](https://freightforwardingregistry.org/jurisdictions/united-states/new-jersey/)
+- [Illinois](https://freightforwardingregistry.org/jurisdictions/united-states/illinois/)
+- [Pennsylvania](https://freightforwardingregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Massachusetts](https://freightforwardingregistry.org/jurisdictions/united-states/massachusetts/)
+- [Washington](https://freightforwardingregistry.org/jurisdictions/united-states/washington/)
+- [Georgia](https://freightforwardingregistry.org/jurisdictions/united-states/georgia/)
+- [Wyoming](https://freightforwardingregistry.org/jurisdictions/united-states/wyoming/)
+- [Nevada](https://freightforwardingregistry.org/jurisdictions/united-states/nevada/)
+- [Delaware](https://freightforwardingregistry.org/jurisdictions/united-states/delaware/)
+
+### United Kingdom records
+
+- [United Kingdom](https://freightforwardingregistry.org/jurisdictions/united-kingdom/)
+- [England and Wales](https://freightforwardingregistry.org/jurisdictions/united-kingdom/england-wales/)
+- [Scotland](https://freightforwardingregistry.org/jurisdictions/united-kingdom/scotland/)
+- [Northern Ireland](https://freightforwardingregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+
+### Canadian records
+
+- [Canada](https://freightforwardingregistry.org/jurisdictions/canada/)
+- [Ontario](https://freightforwardingregistry.org/jurisdictions/canada/ontario/)
+- [Quebec](https://freightforwardingregistry.org/jurisdictions/canada/quebec/)
+- [British Columbia](https://freightforwardingregistry.org/jurisdictions/canada/british-columbia/)
+- [Alberta](https://freightforwardingregistry.org/jurisdictions/canada/alberta/)
+
+### Regional and international records
+
+- [Europe](https://freightforwardingregistry.org/jurisdictions/europe/)
+- [International](https://freightforwardingregistry.org/jurisdictions/international/)
+
+## Editorial limitation
+
+Freight Forwarding Registry is an editorial reference service. It is not a freight forwarder, carrier, Customs Broker, Customs representative, insurer, warehousekeeper, transport authority, legal adviser, tax adviser, product-certification authority or sanctions/export-control adviser. Users should verify current requirements and contractual terms with qualified providers and authorities for the exact shipment and all relevant jurisdictions.
